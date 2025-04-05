@@ -1,0 +1,4 @@
+- group: hogecustomresource
+  version: v1
+  kind: HogeDeployment
+  containerPath: spec/hoge/spec/template/spec
