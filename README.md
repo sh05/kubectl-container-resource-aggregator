@@ -1,1 +1,2 @@
-# kubectl-container-resources
+# kubectl-container-resource-aggregator
+
